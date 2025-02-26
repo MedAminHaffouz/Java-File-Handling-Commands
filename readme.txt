@@ -16,3 +16,4 @@ java RenameTo : to rename a file
 java SetPermissions : to change the permissions of a file
 java SizeFile : to give a size to the file
 java WordCount : to give the nb of lines , words and chars in the file
+java Touch : the similar to the touch command
